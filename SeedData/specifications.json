@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Identifier": 1,
+    "InputDate": "2024-01-10T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 11
+  },
+  {
+    "Identifier": 2,
+    "InputDate": "2024-01-10T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 12
+  },
+  {
+    "Identifier": 3,
+    "InputDate": "2024-01-15T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 13
+  },
+  {
+    "Identifier": 4,
+    "InputDate": "2024-02-01T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": false,
+    "Owner": 2
+  },
+  {
+    "Identifier": 5,
+    "InputDate": "2024-03-10T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 3
+  },
+  {
+    "Identifier": 6,
+    "InputDate": "2024-04-05T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": false,
+    "Owner": 4
+  },
+  {
+    "Identifier": 7,
+    "InputDate": "2024-01-20T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 14
+  },
+  {
+    "Identifier": 8,
+    "InputDate": "2024-01-20T00:00:00",
+    "OutputDate": "2024-12-31T00:00:00",
+    "IsMain": true,
+    "Owner": 16
+  }
+]

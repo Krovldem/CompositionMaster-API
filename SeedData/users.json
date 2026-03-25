@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Identifier": 1,
+    "FullName": "Иванов Иван Иванович",
+    "Login": "ivanov",
+    "Password": "123456",
+    "RoleId": 1
+  },
+  {
+    "Identifier": 2,
+    "FullName": "Петров Петр Петрович",
+    "Login": "petrov",
+    "Password": "123456",
+    "RoleId": 2
+  },
+  {
+    "Identifier": 3,
+    "FullName": "Сидорова Анна Сергеевна",
+    "Login": "sidorova",
+    "Password": "123456",
+    "RoleId": 3
+  },
+  {
+    "Identifier": 4,
+    "FullName": "Кузнецов Сергей Васильевич",
+    "Login": "kuznetsov",
+    "Password": "123456",
+    "RoleId": 4
+  },
+  {
+    "Identifier": 5,
+    "FullName": "Николаева Елена Дмитриевна",
+    "Login": "nikolaeva",
+    "Password": "123456",
+    "RoleId": 5
+  }
+]

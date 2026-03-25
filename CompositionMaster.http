@@ -1,0 +1,28 @@
+### Получить все роли
+GET http://localhost:5192/api/Role
+
+### Получить всю номенклатуру
+GET http://localhost:5192/api/Nomenclature
+
+### Получить всех пользователей
+GET http://localhost:5192/api/User
+
+### Получить все спецификации
+GET http://localhost:5192/api/Specification
+
+### Получить единицы измерения
+GET http://localhost:5192/api/UnitOfMeasurement
+
+### Создать новую номенклатуру
+POST http://localhost:5192/api/Nomenclature
+Content-Type: application/json
+
+{
+  "identifier": "TEST001",
+  "introducedIntoUse": "2024-01-01T00:00:00",
+  "dSECode": "TEST001",
+  "name": "Тестовая номенклатура",
+  "subsystemCode": "TEST",
+  "nomenclatureTypeId": 1,
+  "unitOfMeasurementId": 1
+}

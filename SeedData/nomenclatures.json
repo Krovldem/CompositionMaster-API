@@ -1,0 +1,173 @@
+﻿[
+  {
+    "Identifier": 1,
+    "IntroducedIntoUse": "2023-01-15T00:00:00",
+    "DSECode": "BOLT-M6-20",
+    "Name": "Болт М6х20",
+    "SubsystemCode": "CRP-001",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 2,
+    "IntroducedIntoUse": "2023-01-15T00:00:00",
+    "DSECode": "NUT-M6",
+    "Name": "Гайка М6",
+    "SubsystemCode": "CRP-002",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 3,
+    "IntroducedIntoUse": "2023-01-15T00:00:00",
+    "DSECode": "WASHER-6",
+    "Name": "Шайба 6мм",
+    "SubsystemCode": "CRP-003",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 4,
+    "IntroducedIntoUse": "2023-02-10T00:00:00",
+    "DSECode": "STEEL-3MM",
+    "Name": "Лист стальной 3мм",
+    "SubsystemCode": "MAT-001",
+    "NomenclatureType": 2,
+    "UnitOfMeasurement": 2
+  },
+  {
+    "Identifier": 5,
+    "IntroducedIntoUse": "2023-02-10T00:00:00",
+    "DSECode": "PAINT-RED",
+    "Name": "Краска красная",
+    "SubsystemCode": "MAT-002",
+    "NomenclatureType": 2,
+    "UnitOfMeasurement": 4
+  },
+  {
+    "Identifier": 6,
+    "IntroducedIntoUse": "2023-03-05T00:00:00",
+    "DSECode": "BEARING-6000",
+    "Name": "Подшипник 6000",
+    "SubsystemCode": "CMP-001",
+    "NomenclatureType": 3,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 7,
+    "IntroducedIntoUse": "2023-03-05T00:00:00",
+    "DSECode": "MOTOR-0.75KW",
+    "Name": "Электродвигатель 0.75кВт",
+    "SubsystemCode": "CMP-002",
+    "NomenclatureType": 3,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 8,
+    "IntroducedIntoUse": "2023-03-05T00:00:00",
+    "DSECode": "SWITCH-220V",
+    "Name": "Выключатель 220В",
+    "SubsystemCode": "CMP-003",
+    "NomenclatureType": 3,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 9,
+    "IntroducedIntoUse": "2023-03-20T00:00:00",
+    "DSECode": "CABLE-2.5",
+    "Name": "Кабель 2.5мм²",
+    "SubsystemCode": "MAT-003",
+    "NomenclatureType": 2,
+    "UnitOfMeasurement": 3
+  },
+  {
+    "Identifier": 10,
+    "IntroducedIntoUse": "2023-04-01T00:00:00",
+    "DSECode": "FRAME-100",
+    "Name": "Рама 1000х500",
+    "SubsystemCode": "PFB-001",
+    "NomenclatureType": 5,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 11,
+    "IntroducedIntoUse": "2024-01-10T00:00:00",
+    "DSECode": "MOTOR-ASSY-01",
+    "Name": "Моторный узел в сборе",
+    "SubsystemCode": "AST-001",
+    "NomenclatureType": 6,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 12,
+    "IntroducedIntoUse": "2024-01-10T00:00:00",
+    "DSECode": "FRAME-ASSY-01",
+    "Name": "Рама в сборе",
+    "SubsystemCode": "AST-002",
+    "NomenclatureType": 6,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 13,
+    "IntroducedIntoUse": "2024-01-10T00:00:00",
+    "DSECode": "FINAL-PRODUCT-01",
+    "Name": "Изделие конечное",
+    "SubsystemCode": "PRD-001",
+    "NomenclatureType": 6,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 14,
+    "IntroducedIntoUse": "2024-01-15T00:00:00",
+    "DSECode": "SHAFT-001",
+    "Name": "Вал приводной",
+    "SubsystemCode": "MEC-001",
+    "NomenclatureType": 6,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 15,
+    "IntroducedIntoUse": "2024-01-15T00:00:00",
+    "DSECode": "GEAR-001",
+    "Name": "Шестерня Z=24",
+    "SubsystemCode": "MEC-002",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 16,
+    "IntroducedIntoUse": "2024-01-20T00:00:00",
+    "DSECode": "CONTROLLER-01",
+    "Name": "Контроллер управления",
+    "SubsystemCode": "ELC-001",
+    "NomenclatureType": 6,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 17,
+    "IntroducedIntoUse": "2024-01-20T00:00:00",
+    "DSECode": "SENSOR-01",
+    "Name": "Датчик положения",
+    "SubsystemCode": "ELC-002",
+    "NomenclatureType": 3,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 18,
+    "IntroducedIntoUse": "2024-01-25T00:00:00",
+    "DSECode": "SPRING-01",
+    "Name": "Пружина сжатия",
+    "SubsystemCode": "MEC-003",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  },
+  {
+    "Identifier": 19,
+    "IntroducedIntoUse": "2024-01-25T00:00:00",
+    "DSECode": "BUSHING-01",
+    "Name": "Втулка направляющая",
+    "SubsystemCode": "MEC-004",
+    "NomenclatureType": 1,
+    "UnitOfMeasurement": 1
+  }
+]
